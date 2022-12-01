@@ -6,9 +6,7 @@ let N = str.length;
       bag+=str[i]
   }
   
-  if(bag==str){
-      console.log("Yes")
-  }
-  else {
-  console.log("No")
+  (bag==str)?console.log("Yes"):console.log("No");
 }
+
+// fixed it 
