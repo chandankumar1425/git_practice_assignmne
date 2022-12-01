@@ -12,3 +12,5 @@ let N = str.length;
   else {
   console.log("No")
 }
+
+// fixed it 
